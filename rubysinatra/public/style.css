@@ -1,0 +1,10 @@
+html {
+    background: #fab;
+}
+body {
+    background: #000;
+    width: 80%;
+    color: #fab;
+    padding: 20px;
+    margin: 20px auto;
+}

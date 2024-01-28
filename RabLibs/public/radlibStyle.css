@@ -1,0 +1,13 @@
+html {
+    background: blue
+}
+body {
+    background: #000;
+    width: 80%;
+    color: skyblue;
+    padding: 20px;
+    margin: 20px auto;
+}
+#websiteHeader {
+    text-decoration-line: underline
+}
